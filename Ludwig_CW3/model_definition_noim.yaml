@@ -1,0 +1,21 @@
+input_features:
+    -
+        name: age
+        type: category
+    -
+        name: localization
+        type: category
+    -
+        name: sex
+        type: category
+    -
+        name: dx_type
+        type: category
+
+output_features:
+    -
+        name: dx
+        type: category
+
+training:
+    batch_size: 16

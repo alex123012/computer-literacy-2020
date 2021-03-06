@@ -1,0 +1,9 @@
+miRNA	miRDB score	site type	average
+miR-21-3p	100	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	4.7943257799849635
+miR-126-5p	98	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	4.089519711516851
+miR-186-5p	98	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	3.0634646853655134
+let-7b-3p	97	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	1.5951109354716606
+miR-625-3p	94	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	2.592471234553018
+miR-139-5p	93	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	2.3735577765138984
+miR-194-5p	91	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	2.6684111463842903
+miR-374a-3p	88	['6mer', '7mer-1a', '7mer-m8', '8mer-1a']	4.760407793383689

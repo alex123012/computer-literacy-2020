@@ -1,0 +1,400 @@
+Virus	miRNA	MSA_start	MSA_end	UTR_start	UTR_end	Site_type	miRNA in this species	ORF_overlap	miRDB score	average	Locus_start	Locus_end	Protein_start	Protein_end
+Human_coronavirus_OC43	miR-21-3p	12187	12192	11565	11570	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	12307	12312	11685	11690	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	1381	1387	1331	1337	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	138	144	126	132	7mer-m8	x	0	99	4.7943257799849635				
+Human_coronavirus_OC43	miR-21-3p	14661	14667	14002	14008	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	1555	1560	1500	1505	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	15648	15654	14977	14983	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	15723	15729	15052	15058	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	1877	1882	1809	1814	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	1921	1926	1851	1856	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	19420	19425	18738	18743	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	23382	23388	22657	22663	7mer-1a	x	0	99	4.7943257799849635	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-21-3p	23769	23776	23040	23047	8mer-1a	x	0	99	4.7943257799849635	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-21-3p	24048	24054	23319	23325	7mer-m8	x	0	99	4.7943257799849635	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-21-3p	24954	24959	24219	24224	6mer	x	0	99	4.7943257799849635	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-21-3p	25071	25077	24332	24338	7mer-m8	x	0	99	4.7943257799849635	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-21-3p	25317	25323	24569	24575	7mer-m8	x	0	99	4.7943257799849635	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-21-3p	25804	25809	25050	25055	6mer	x	0	99	4.7943257799849635	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-21-3p	26251	26257	25496	25502	7mer-m8	x	0	99	4.7943257799849635	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-21-3p	26994	27001	26237	26244	8mer-1a	x	0	99	4.7943257799849635	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-21-3p	3734	3740	3506	3512	7mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	4381	4387	4133	4139	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	5022	5029	4763	4770	8mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	5200	5207	4925	4932	8mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	6140	6146	5822	5828	7mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	6431	6437	6091	6097	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	6705	6712	6335	6342	8mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	8741	8746	8235	8240	6mer	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	8797	8803	8291	8297	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	9148	9155	8603	8610	8mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	986	993	944	951	8mer-1a	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-21-3p	9891	9897	9343	9349	7mer-m8	x	0	99	4.7943257799849635	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	10450	10456	9882	9888	7mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	10452	10458	9884	9890	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	10976	10982	10399	10405	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	13208	13213	12576	12581	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	13303	13310	12665	12672	8mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	14746	14751	14087	14092	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	15459	15465	14788	14794	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	16390	16395	15719	15724	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	19449	19455	18767	18773	7mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	19806	19811	19109	19114	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	20303	20310	19603	19610	8mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	20565	20571	19864	19870	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	25526	25533	24776	24783	8mer-1a	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	25915	25920	25161	25166	6mer	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	26506	26513	25751	25758	8mer-1a	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	27175	27181	26417	26423	7mer-m8	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	27955	27961	27192	27198	7mer-1a	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	28014	28019	27249	27254	6mer	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	28942	28947	28158	28163	6mer	x	0	97	4.089519711516851	EYW02_gp6	EYW02_gp6	envelope protein	envelope protein
+Human_coronavirus_OC43	miR-126-5p	29408	29413	28611	28616	6mer	x	0	97	4.089519711516851	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-126-5p	29623	29629	28820	28826	7mer-1a	x	0	97	4.089519711516851	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-126-5p	29863	29869	29058	29064	7mer-1a	x	0	97	4.089519711516851	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-126-5p	4715	4720	4464	4469	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	9733	9739	9185	9191	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	10450	10456	9882	9888	7mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	10452	10458	9884	9890	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	10976	10982	10399	10405	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	13208	13213	12576	12581	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	13303	13310	12665	12672	8mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	14746	14751	14087	14092	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	15459	15465	14788	14794	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	16390	16395	15719	15724	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	19449	19455	18767	18773	7mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	19806	19811	19109	19114	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	20303	20310	19603	19610	8mer-1a	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	20565	20571	19864	19870	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	25526	25533	24776	24783	8mer-1a	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	25915	25920	25161	25166	6mer	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	26506	26513	25751	25758	8mer-1a	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	27175	27181	26417	26423	7mer-m8	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	27955	27961	27192	27198	7mer-1a	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	28014	28019	27249	27254	6mer	x	0	97	4.089519711516851	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-126-5p	28942	28947	28158	28163	6mer	x	0	97	4.089519711516851	EYW02_gp6	EYW02_gp6	envelope protein	envelope protein
+Human_coronavirus_OC43	miR-126-5p	29408	29413	28611	28616	6mer	x	0	97	4.089519711516851	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-126-5p	29623	29629	28820	28826	7mer-1a	x	0	97	4.089519711516851	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-126-5p	29863	29869	29058	29064	7mer-1a	x	0	97	4.089519711516851	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-126-5p	4715	4720	4464	4469	6mer	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-126-5p	9733	9739	9185	9191	7mer-m8	x	0	97	4.089519711516851	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	10408	10413	9840	9845	6mer	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	10870	10875	10293	10298	6mer	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	11152	11159	10574	10581	8mer-1a	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	11322	11328	10737	10743	7mer-1a	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	1193	1200	1145	1152	8mer-1a	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	12529	12534	11907	11912	6mer	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	14393	14399	13734	13740	7mer-m8	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	15096	15102	14425	14431	7mer-m8	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	15315	15322	14644	14651	8mer-1a	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-195-5p	24201	24207	23472	23478	7mer-m8	x	0	96	2.573725837560798	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-195-5p	25538	25545	24788	24795	8mer-1a	x	0	96	2.573725837560798	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-195-5p	25708	25715	24956	24963	8mer-1a	x	0	96	2.573725837560798	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-195-5p	31376	31383	30509	30516	8mer-1a	x	0	96	2.573725837560798				
+Human_coronavirus_OC43	miR-195-5p	8338	8346	7835	7841	7mer-m8	x	0	96	2.573725837560798	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	10408	10413	9840	9845	6mer	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	10870	10875	10293	10298	6mer	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	11152	11159	10574	10581	8mer-1a	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	11322	11328	10737	10743	7mer-1a	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	1193	1200	1145	1152	8mer-1a	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	12529	12534	11907	11912	6mer	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	14393	14399	13734	13740	7mer-m8	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	15096	15102	14425	14431	7mer-m8	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	15315	15322	14644	14651	8mer-1a	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-16-5p	24201	24207	23472	23478	7mer-m8	x	0	96	4.190134721268195	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-16-5p	25538	25545	24788	24795	8mer-1a	x	0	96	4.190134721268195	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-16-5p	25708	25715	24956	24963	8mer-1a	x	0	96	4.190134721268195	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-16-5p	31376	31383	30509	30516	8mer-1a	x	0	96	4.190134721268195				
+Human_coronavirus_OC43	miR-16-5p	8338	8346	7835	7841	7mer-m8	x	0	96	4.190134721268195	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	12211	12218	11589	11596	8mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	17060	17067	16389	16396	8mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	17626	17632	16950	16956	7mer-m8	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	20216	20222	19516	19522	7mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	21410	21415	20707	20712	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	22977	22983	22253	22259	7mer-1a	x	0	95	5.772000345699802	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-486-5p	23938	23944	23209	23215	7mer-m8	x	0	95	5.772000345699802	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-486-5p	24950	24955	24215	24220	6mer	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	25996	26001	25241	25246	6mer	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	27183	27190	26425	26432	8mer-1a	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	28220	28226	27451	27457	7mer-1a	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	28375	28382	27604	27611	8mer-1a	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	4489	4494	4241	4246	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	4890	4896	4639	4645	7mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	6420	6425	6080	6085	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	6832	6837	6446	6451	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	7602	7607	7118	7123	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	12211	12218	11589	11596	8mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	17060	17067	16389	16396	8mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	17626	17632	16950	16956	7mer-m8	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	20216	20222	19516	19522	7mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	21410	21415	20707	20712	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	22977	22983	22253	22259	7mer-1a	x	0	95	5.772000345699802	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-486-5p	23938	23944	23209	23215	7mer-m8	x	0	95	5.772000345699802	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-486-5p	24950	24955	24215	24220	6mer	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	25996	26001	25241	25246	6mer	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	27183	27190	26425	26432	8mer-1a	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	28220	28226	27451	27457	7mer-1a	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	28375	28382	27604	27611	8mer-1a	x	0	95	5.772000345699802	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-486-5p	4489	4494	4241	4246	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	4890	4896	4639	4645	7mer-1a	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	6420	6425	6080	6085	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	6832	6837	6446	6451	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-486-5p	7602	7607	7118	7123	6mer	x	0	95	5.772000345699802	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	10310	10316	9745	9751	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	11874	11879	11264	11269	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	14179	14184	13520	13525	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	14275	14281	13616	13622	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	15295	15301	14624	14630	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	1628	1634	1570	1576	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	16532	16537	15861	15866	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	16841	16846	16170	16175	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	18487	18493	17810	17816	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	19340	19346	18658	18664	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	19690	19696	18993	18999	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	2031	2036	1954	1959	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	2161	2168	2083	2090	8mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	21744	21750	21041	21047	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	2263	2269	2184	2190	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	24271	24277	23542	23548	7mer-m8	x	0	90	3.0634646853655134	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-186-5p	24658	24663	23926	23931	6mer	x	0	90	3.0634646853655134	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-186-5p	27577	27583	26819	26825	7mer-1a	x	0	90	3.0634646853655134	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-186-5p	29253	29258	28457	28462	6mer	x	0	90	3.0634646853655134	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-186-5p	29673	29679	28870	28876	7mer-m8	x	0	90	3.0634646853655134	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-186-5p	30212	30217	29399	29404	6mer	x	0	90	3.0634646853655134	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-186-5p	30896	30901	30048	30053	6mer	x	0	90	3.0634646853655134	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-186-5p	3940	3945	3708	3713	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	4795	4800	4544	4549	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	6547	6554	6193	6200	8mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	10310	10316	9745	9751	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	11874	11879	11264	11269	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	14179	14184	13520	13525	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	14275	14281	13616	13622	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	15295	15301	14624	14630	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	1628	1634	1570	1576	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	16532	16537	15861	15866	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	16841	16846	16170	16175	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	18487	18493	17810	17816	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	19340	19346	18658	18664	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	19690	19696	18993	18999	7mer-m8	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	2031	2036	1954	1959	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	2161	2168	2083	2090	8mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	21744	21750	21041	21047	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	2263	2269	2184	2190	7mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	24271	24277	23542	23548	7mer-m8	x	0	90	3.0634646853655134	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-186-5p	24658	24663	23926	23931	6mer	x	0	90	3.0634646853655134	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-186-5p	27577	27583	26819	26825	7mer-1a	x	0	90	3.0634646853655134	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-186-5p	29253	29258	28457	28462	6mer	x	0	90	3.0634646853655134	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-186-5p	29673	29679	28870	28876	7mer-m8	x	0	90	3.0634646853655134	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	miR-186-5p	30212	30217	29399	29404	6mer	x	0	90	3.0634646853655134	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-186-5p	30896	30901	30048	30053	6mer	x	0	90	3.0634646853655134	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-186-5p	3940	3945	3708	3713	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	4795	4800	4544	4549	6mer	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-186-5p	6547	6554	6193	6200	8mer-1a	x	0	90	3.0634646853655134	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10227	10236	9671	9677	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10461	10467	9893	9899	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10705	10710	10137	10142	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10752	10757	10175	10180	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	11189	11195	10611	10617	7mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	13342	13348	12704	12710	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	16174	16180	15503	15509	7mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	16249	16254	15578	15583	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	2222	2228	2144	2150	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	2352	2358	2271	2277	7mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	25264	25269	24516	24521	6mer	x	0	86	1.4797190012184809	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-34c-3p	26072	26077	25317	25322	6mer	x	0	86	1.4797190012184809	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-34c-3p	27691	27697	26930	26936	7mer-m8	x	0	86	1.4797190012184809	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-34c-3p	3256	3261	3126	3131	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	3680	3685	3452	3457	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	4186	4193	3941	3948	8mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	7321	7327	6866	6872	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10227	10236	9671	9677	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10461	10467	9893	9899	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10705	10710	10137	10142	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	10752	10757	10175	10180	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	11189	11195	10611	10617	7mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	13342	13348	12704	12710	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	16174	16180	15503	15509	7mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	16249	16254	15578	15583	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	2222	2228	2144	2150	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	2352	2358	2271	2277	7mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	25264	25269	24516	24521	6mer	x	0	86	1.4797190012184809	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-34c-3p	26072	26077	25317	25322	6mer	x	0	86	1.4797190012184809	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-34c-3p	27691	27697	26930	26936	7mer-m8	x	0	86	1.4797190012184809	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-34c-3p	3256	3261	3126	3131	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	3680	3685	3452	3457	6mer	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	4186	4193	3941	3948	8mer-1a	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-34c-3p	7321	7327	6866	6872	7mer-m8	x	0	86	1.4797190012184809	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	10025	10031	9476	9481	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	10351	10358	9783	9790	8mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	11653	11658	11059	11064	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	11682	11689	11088	11095	8mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	12819	12825	12196	12202	7mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	13765	13771	13124	13130	7mer-m8	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	14495	14501	13836	13842	7mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	15433	15438	14762	14767	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	16166	16171	15495	15500	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	17683	17689	17007	17013	7mer-m8	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	19293	19300	18611	18618	8mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	19945	19951	19248	19253	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	20185	20191	19485	19491	7mer-m8	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	20480	20485	19779	19784	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	21641	21648	20938	20945	8mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	24729	24734	23995	24000	6mer	x	0	86	1.5951109354716606	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	let-7b-3p	29550	29555	28752	28757	6mer	x	0	86	1.5951109354716606	EYW02_gp7	EYW02_gp7	membrane protein	membrane protein
+Human_coronavirus_OC43	let-7b-3p	31453	31458	30578	30583	6mer	x	0	86	1.5951109354716606				
+Human_coronavirus_OC43	let-7b-3p	4077	4083	3844	3850	7mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	4269	4276	4022	4029	8mer-1a	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	6284	6289	5965	5970	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	7649	7654	7165	7170	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	8807	8812	8301	8306	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	let-7b-3p	9543	9548	8995	9000	6mer	x	0	86	1.5951109354716606	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-28-5p	213	223	194	200	7mer-m8	x	0	85	2.1200223643957288				
+Human_coronavirus_OC43	miR-194-5p	10572	10577	10004	10009	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	11837	11844	11231	11237	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	13048	13053	12425	12430	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	13293	13300	12657	12662	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	15776	15781	15105	15110	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	16947	16952	16276	16281	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	18044	18050	17367	17373	7mer-m8	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	18730	18737	18048	18055	8mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	18776	18781	18094	18099	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	19277	19283	18595	18601	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	24334	24339	23604	23609	6mer	x	0	83	2.6684111463842903	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-194-5p	24500	24505	23768	23773	6mer	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	25077	25082	24338	24343	6mer	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	2549	2555	2458	2464	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	26997	27002	26240	26245	6mer	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	2707	2718	2594	2600	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	28181	28187	27413	27419	7mer-1a	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	2897	2903	2771	2777	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	4615	4621	4364	4370	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	6078	6083	5762	5767	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	7780	7785	7294	7299	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	7893	7899	7407	7413	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	8426	8433	7921	7928	8mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	9330	9335	8785	8790	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	10572	10577	10004	10009	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	11837	11844	11231	11237	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	13048	13053	12425	12430	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	13293	13300	12657	12662	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	15776	15781	15105	15110	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	16947	16952	16276	16281	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	18044	18050	17367	17373	7mer-m8	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	18730	18737	18048	18055	8mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	18776	18781	18094	18099	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	19277	19283	18595	18601	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	24334	24339	23604	23609	6mer	x	0	83	2.6684111463842903	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-194-5p	24500	24505	23768	23773	6mer	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	25077	25082	24338	24343	6mer	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	2549	2555	2458	2464	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	26997	27002	26240	26245	6mer	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	2707	2718	2594	2600	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	28181	28187	27413	27419	7mer-1a	x	0	83	2.6684111463842903	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-194-5p	2897	2903	2771	2777	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	4615	4621	4364	4370	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	6078	6083	5762	5767	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	7780	7785	7294	7299	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	7893	7899	7407	7413	7mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	8426	8433	7921	7928	8mer-1a	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-194-5p	9330	9335	8785	8790	6mer	x	0	83	2.6684111463842903	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	10082	10087	9532	9537	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	1066	1072	1024	1030	7mer-m8	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	11191	11196	10613	10618	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	12841	12846	12218	12223	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	13036	13041	12413	12418	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	14163	14169	13504	13510	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	14595	14600	13936	13941	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	15468	15473	14797	14802	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	16176	16181	15505	15510	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	17370	17375	16699	16704	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	17801	17806	17125	17130	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20255	20261	19555	19561	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20502	20508	19801	19807	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20532	20537	19831	19836	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20612	20617	19911	19916	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	21676	21681	20973	20978	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	22568	22574	21847	21853	7mer-1a	x	0	82	4.760407793383689	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-374a-3p	22826	22832	22104	22110	7mer-m8	x	0	82	4.760407793383689	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-374a-3p	23978	23984	23249	23255	7mer-m8	x	0	82	4.760407793383689	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-374a-3p	24150	24155	23421	23426	6mer	x	0	82	4.760407793383689	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-374a-3p	24455	24461	23723	23729	7mer-1a	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	24829	24834	24095	24100	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	25418	25423	24668	24673	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	25962	25967	25208	25213	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	26912	26917	26156	26161	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	27133	27139	26375	26381	7mer-1a	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	28771	28777	27989	27995	7mer-1a	x	0	82	4.760407793383689	ns12.9	ns12.9	ns12.9	ns12.9
+Human_coronavirus_OC43	miR-374a-3p	31157	31162	30296	30301	6mer	x	0	82	4.760407793383689	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-374a-3p	4189	4194	3944	3949	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	5341	5346	5063	5068	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	5983	5991	5678	5683	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	6584	6589	6230	6235	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	7108	7116	6688	6694	7mer-m8	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	8313	8323	7813	7820	8mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	8388	8394	7883	7889	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	8398	8404	7893	7899	7mer-m8	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	10082	10087	9532	9537	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	1066	1072	1024	1030	7mer-m8	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	11191	11196	10613	10618	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	12841	12846	12218	12223	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	13036	13041	12413	12418	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	14163	14169	13504	13510	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	14595	14600	13936	13941	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	15468	15473	14797	14802	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	16176	16181	15505	15510	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	17370	17375	16699	16704	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	17801	17806	17125	17130	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20255	20261	19555	19561	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20502	20508	19801	19807	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20532	20537	19831	19836	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	20612	20617	19911	19916	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	21676	21681	20973	20978	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	22568	22574	21847	21853	7mer-1a	x	0	82	4.760407793383689	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-374a-3p	22826	22832	22104	22110	7mer-m8	x	0	82	4.760407793383689	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-374a-3p	23978	23984	23249	23255	7mer-m8	x	0	82	4.760407793383689	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-374a-3p	24150	24155	23421	23426	6mer	x	0	82	4.760407793383689	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-374a-3p	24455	24461	23723	23729	7mer-1a	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	24829	24834	24095	24100	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	25418	25423	24668	24673	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	25962	25967	25208	25213	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	26912	26917	26156	26161	6mer	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	27133	27139	26375	26381	7mer-1a	x	0	82	4.760407793383689	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-374a-3p	28771	28777	27989	27995	7mer-1a	x	0	82	4.760407793383689	ns12.9	ns12.9	ns12.9	ns12.9
+Human_coronavirus_OC43	miR-374a-3p	31157	31162	30296	30301	6mer	x	0	82	4.760407793383689	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-374a-3p	4189	4194	3944	3949	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	5341	5346	5063	5068	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	5983	5991	5678	5683	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	6584	6589	6230	6235	6mer	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	7108	7116	6688	6694	7mer-m8	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	8313	8323	7813	7820	8mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	8388	8394	7883	7889	7mer-1a	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-374a-3p	8398	8404	7893	7899	7mer-m8	x	0	82	4.760407793383689	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	11470	11475	10882	10887	6mer	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	13942	13950	13297	13303	7mer-1a	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	14838	14843	14167	14172	6mer	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	15638	15643	14967	14972	6mer	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	21135	21141	20432	20438	7mer-m8	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	22642	22647	21920	21925	6mer	x	0	81	3.4428166984166766	ns2	ns2	ns2	ns2
+Human_coronavirus_OC43	miR-152-3p	2285	2290	2206	2211	6mer	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	24609	24615	23877	23883	7mer-1a	x	0	81	3.4428166984166766	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-152-3p	26047	26052	25292	25297	6mer	x	0	81	3.4428166984166766	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-152-3p	28500	28507	27722	27729	8mer-1a	x	0	81	3.4428166984166766				
+Human_coronavirus_OC43	miR-152-3p	30755	30761	29916	29922	7mer-m8	x	0	81	3.4428166984166766	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-152-3p	664	670	633	639	7mer-m8	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-152-3p	7981	7986	7495	7500	6mer	x	0	81	3.4428166984166766	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	10392	10398	9824	9830	7mer-1a	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	11151	11157	10573	10579	7mer-m8	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	1193	1198	1145	1150	6mer	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	14392	14398	13733	13739	7mer-m8	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	15095	15101	14424	14430	7mer-m8	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	15314	15320	14643	14649	7mer-m8	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	16846	16852	16175	16181	7mer-1a	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	17169	17175	16498	16504	7mer-1a	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab
+Human_coronavirus_OC43	miR-107	24201	24206	23472	23477	6mer	x	0	81	2.2348658378137336	EYW02_gp3	EYW02_gp3	hemagglutinin-esterase	hemagglutinin-esterase
+Human_coronavirus_OC43	miR-107	25537	25543	24787	24793	7mer-m8	x	0	81	2.2348658378137336	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-107	25708	25713	24956	24961	6mer	x	0	81	2.2348658378137336	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-107	26846	26852	26090	26096	7mer-1a	x	0	81	2.2348658378137336	EYW02_gp4	EYW02_gp4	spike surface glycoprotein	spike surface glycoprotein
+Human_coronavirus_OC43	miR-107	30247	30252	29434	29439	6mer	x	0	81	2.2348658378137336	EYW02_gp8	EYW02_gp8	nucleocapsid protein	nucleocapsid protein
+Human_coronavirus_OC43	miR-107	31376	31381	30509	30514	6mer	x	0	81	2.2348658378137336				
+Human_coronavirus_OC43	miR-107	8337	8345	7834	7840	7mer-m8	x	0	81	2.2348658378137336	orf1ab	orf1ab	Orf1ab	Orf1ab

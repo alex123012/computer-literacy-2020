@@ -1,0 +1,7 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+viral segment Unknown,NC_005831.2,287,20475,+,2943501,1ab,HCNV63gp1,YP_003766.2,6729,replicase polyprotein 1ab
+viral segment Unknown,NC_005831.2,20472,24542,+,2943499,S,HCNV63gp2,YP_003767.1,1356,Spike protein
+viral segment Unknown,NC_005831.2,24542,25219,+,2943500,P3,HCNV63gp3,YP_003768.1,225,protein 3
+viral segment Unknown,NC_005831.2,25200,25433,+,2943502,E,HCNV63gp4,YP_003769.1,77,Envelope protein
+viral segment Unknown,NC_005831.2,25442,26122,+,2943503,M,HCNV63gp5,YP_003770.1,226,Membrane protein
+viral segment Unknown,NC_005831.2,26133,27266,+,2943504,N,HCNV63gp6,YP_003771.1,377,Nucleocapsid protein

@@ -1,0 +1,29 @@
+input_features:
+    -
+        name: path
+        type: image
+        encoder: stacked_cnn
+        preprocessing:
+            resize_method: interpolate
+            height: 400
+            width: 300
+    -
+        name: age
+        type: category
+    -
+        name: localization
+        type: category
+    -
+        name: sex
+        type: category
+    -
+        name: dx_type
+        type: category
+
+output_features:
+    -
+        name: dx
+        type: category
+
+training:
+    batch_size: 16

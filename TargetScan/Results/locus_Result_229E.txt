@@ -1,0 +1,398 @@
+Virus	miRNA	MSA_start	MSA_end	UTR_start	UTR_end	Site_type	miRNA in this species	ORF_overlap	miRDB score	average	Locus_start	Locus_end	Protein_start	Protein_end
+229E	miR-21-3p	10078	10085	10078	10085	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	10357	10362	10357	10362	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	10633	10639	10633	10639	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	10675	10682	10675	10682	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	10778	10783	10778	10783	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	11515	11521	11515	11521	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	11629	11635	11629	11635	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	13083	13089	13083	13089	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	15000	15006	15000	15006	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	15117	15122	15117	15122	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	15172	15177	15172	15177	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	16522	16528	16522	16528	7mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	17406	17412	17406	17412	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	17609	17615	17609	17615	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	1820	1825	1820	1825	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	18846	18852	18846	18852	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	19890	19896	19890	19896	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-21-3p	20773	20779	20773	20779	7mer-m8	x	0	100	4.7943257799849635	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-21-3p	20983	20989	20983	20989	7mer-m8	x	0	100	4.7943257799849635	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-21-3p	21538	21545	21538	21545	8mer-1a	x	0	100	4.7943257799849635	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-21-3p	21869	21875	21869	21875	7mer-1a	x	0	100	4.7943257799849635	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-21-3p	21941	21947	21941	21947	7mer-1a	x	0	100	4.7943257799849635	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-21-3p	22999	23006	22999	23006	8mer-1a	x	0	100	4.7943257799849635	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-21-3p	2467	2474	2467	2474	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	25466	25471	25466	25471	6mer	x	0	100	4.7943257799849635	M	M	membrane protein	membrane protein
+229E	miR-21-3p	26031	26037	26031	26037	7mer-1a	x	0	100	4.7943257799849635	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-21-3p	26090	26097	26090	26097	8mer-1a	x	0	100	4.7943257799849635	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-21-3p	26517	26522	26517	26522	6mer	x	0	100	4.7943257799849635	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-21-3p	26531	26538	26531	26538	8mer-1a	x	0	100	4.7943257799849635	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-21-3p	2920	2926	2920	2926	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	3952	3959	3952	3959	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	4171	4177	4171	4177	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	5031	5037	5031	5037	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	5122	5129	5122	5129	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	5179	5186	5179	5186	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	5836	5842	5836	5842	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	6191	6196	6191	6196	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	6616	6622	6616	6622	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	8119	8125	8119	8125	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	8645	8650	8645	8650	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	9409	9415	9409	9415	7mer-m8	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	9554	9559	9554	9559	6mer	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-21-3p	9718	9725	9718	9725	8mer-1a	x	0	100	4.7943257799849635	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	10316	10322	10316	10322	7mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	11375	11380	11375	11380	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	13002	13008	13002	13008	7mer-m8	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-195-5p	13675	13680	13675	13680	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-195-5p	15277	15282	15277	15282	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-195-5p	16213	16218	16213	16218	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-195-5p	18018	18025	18018	18025	8mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-195-5p	23228	23233	23228	23233	6mer	x	0	97	2.573725837560798	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-195-5p	23386	23392	23386	23392	7mer-m8	x	0	97	2.573725837560798	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-195-5p	2368	2374	2368	2374	7mer-m8	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	24295	24300	24295	24300	6mer	x	0	97	2.573725837560798	4a	4a	4a protein	4a protein
+229E	miR-195-5p	26583	26589	26583	26589	7mer-1a	x	0	97	2.573725837560798	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-195-5p	27018	27023	27018	27023	6mer	x	0	97	2.573725837560798				
+229E	miR-195-5p	3558	3564	3558	3564	7mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	4198	4205	4198	4205	8mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	4819	4826	4819	4826	8mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	5081	5086	5081	5086	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	6262	6267	6262	6267	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	6543	6549	6543	6549	7mer-m8	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	8102	8107	8102	8107	6mer	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	8938	8944	8938	8944	7mer-m8	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	9022	9029	9022	9029	8mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	9811	9818	9811	9818	8mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-195-5p	9937	9944	9937	9944	8mer-1a	x	0	97	2.573725837560798	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	10348	10354	10348	10354	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	11692	11698	11692	11698	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	1348	1353	1348	1353	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	13923	13929	13923	13929	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	13962	13968	13962	13968	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	15191	15198	15191	15198	8mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	16600	16606	16600	16606	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	17521	17527	17521	17527	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	18961	18966	18961	18966	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	19862	19868	19862	19868	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	19992	19997	19992	19997	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	21889	21895	21889	21895	7mer-1a	x	0	97	2.6684111463842903	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-194-5p	22024	22029	22024	22029	6mer	x	0	97	2.6684111463842903	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-194-5p	22669	22674	22669	22674	6mer	x	0	97	2.6684111463842903	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-194-5p	24206	24212	24206	24212	7mer-m8	x	0	97	2.6684111463842903	4a	4a	4a protein	4a protein
+229E	miR-194-5p	26093	26098	26093	26098	6mer	x	0	97	2.6684111463842903	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-194-5p	27121	27126	27121	27126	6mer	x	0	97	2.6684111463842903				
+229E	miR-194-5p	3471	3477	3471	3477	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	4041	4048	4041	4048	8mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	5301	5307	5301	5307	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	6287	6293	6287	6293	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	8862	8867	8862	8867	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	10348	10354	10348	10354	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	11692	11698	11692	11698	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	1348	1353	1348	1353	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	13923	13929	13923	13929	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	13962	13968	13962	13968	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	15191	15198	15191	15198	8mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	16600	16606	16600	16606	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	17521	17527	17521	17527	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	18961	18966	18961	18966	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	19862	19868	19862	19868	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	19992	19997	19992	19997	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-194-5p	21889	21895	21889	21895	7mer-1a	x	0	97	2.6684111463842903	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-194-5p	22024	22029	22024	22029	6mer	x	0	97	2.6684111463842903	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-194-5p	22669	22674	22669	22674	6mer	x	0	97	2.6684111463842903	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-194-5p	24206	24212	24206	24212	7mer-m8	x	0	97	2.6684111463842903	4a	4a	4a protein	4a protein
+229E	miR-194-5p	26093	26098	26093	26098	6mer	x	0	97	2.6684111463842903	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-194-5p	27121	27126	27121	27126	6mer	x	0	97	2.6684111463842903				
+229E	miR-194-5p	3471	3477	3471	3477	7mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	4041	4048	4041	4048	8mer-1a	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	5301	5307	5301	5307	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	6287	6293	6287	6293	7mer-m8	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-194-5p	8862	8867	8862	8867	6mer	x	0	97	2.6684111463842903	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	10316	10322	10316	10322	7mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	11375	11380	11375	11380	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	13002	13008	13002	13008	7mer-m8	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-16-5p	13675	13680	13675	13680	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-16-5p	15277	15282	15277	15282	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-16-5p	16213	16218	16213	16218	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-16-5p	18018	18025	18018	18025	8mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-16-5p	23228	23233	23228	23233	6mer	x	0	96	4.190134721268195	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-16-5p	23386	23392	23386	23392	7mer-m8	x	0	96	4.190134721268195	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-16-5p	2368	2374	2368	2374	7mer-m8	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	24295	24300	24295	24300	6mer	x	0	96	4.190134721268195	4a	4a	4a protein	4a protein
+229E	miR-16-5p	26583	26589	26583	26589	7mer-1a	x	0	96	4.190134721268195	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-16-5p	27018	27023	27018	27023	6mer	x	0	96	4.190134721268195				
+229E	miR-16-5p	3558	3564	3558	3564	7mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	4198	4205	4198	4205	8mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	4819	4826	4819	4826	8mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	5081	5086	5081	5086	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	6262	6267	6262	6267	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	6543	6549	6543	6549	7mer-m8	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	8102	8107	8102	8107	6mer	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	8938	8944	8938	8944	7mer-m8	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	9022	9029	9022	9029	8mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	9811	9818	9811	9818	8mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-16-5p	9937	9944	9937	9944	8mer-1a	x	0	96	4.190134721268195	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	10135	10140	10135	10140	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	102	109	102	109	8mer-1a	x	0	92	4.638347379242531				
+229E	miR-338-3p	10560	10565	10560	10565	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	11085	11090	11085	11090	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	1171	1176	1171	1176	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	13509	13514	13509	13514	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	13867	13874	13867	13874	8mer-1a	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	14789	14796	14789	14796	8mer-1a	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	14997	15002	14997	15002	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	15279	15284	15279	15284	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	17589	17594	17589	17594	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	19875	19880	19875	19880	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	20608	20613	20608	20613	6mer	x	0	92	4.638347379242531	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-338-3p	21535	21540	21535	21540	6mer	x	0	92	4.638347379242531	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-338-3p	24427	24432	24427	24432	6mer	x	0	92	4.638347379242531	4a	4a	4a protein	4a protein
+229E	miR-338-3p	27165	27171	27165	27171	7mer-1a	x	0	92	4.638347379242531				
+229E	miR-338-3p	3452	3457	3452	3457	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	7741	7746	7741	7746	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	7749	7755	7749	7755	7mer-m8	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	8115	8121	8115	8121	7mer-m8	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	10135	10140	10135	10140	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	102	109	102	109	8mer-1a	x	0	92	4.638347379242531				
+229E	miR-338-3p	10560	10565	10560	10565	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	11085	11090	11085	11090	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	1171	1176	1171	1176	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	13509	13514	13509	13514	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	13867	13874	13867	13874	8mer-1a	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	14789	14796	14789	14796	8mer-1a	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	14997	15002	14997	15002	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	15279	15284	15279	15284	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	17589	17594	17589	17594	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	19875	19880	19875	19880	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-338-3p	20608	20613	20608	20613	6mer	x	0	92	4.638347379242531	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-338-3p	21535	21540	21535	21540	6mer	x	0	92	4.638347379242531	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-338-3p	24427	24432	24427	24432	6mer	x	0	92	4.638347379242531	4a	4a	4a protein	4a protein
+229E	miR-338-3p	27165	27171	27165	27171	7mer-1a	x	0	92	4.638347379242531				
+229E	miR-338-3p	3452	3457	3452	3457	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	7741	7746	7741	7746	6mer	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	7749	7755	7749	7755	7mer-m8	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-338-3p	8115	8121	8115	8121	7mer-m8	x	0	92	4.638347379242531	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	10447	10452	10447	10452	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	12431	12436	12431	12436	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	13657	13662	13657	13662	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	13921	13928	13921	13928	8mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	16354	16360	16354	16360	7mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	16630	16635	16630	16635	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	17698	17703	17698	17703	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	19494	19500	19494	19500	7mer-m8	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	19560	19566	19560	19566	7mer-m8	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	1967	1972	1967	1972	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	20371	20377	20371	20377	7mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	20436	20442	20436	20442	7mer-m8	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-132-3p	21260	21265	21260	21265	6mer	x	0	91	2.232646477851873	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-132-3p	21525	21531	21525	21531	7mer-1a	x	0	91	2.232646477851873	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-132-3p	23720	23725	23720	23725	6mer	x	0	91	2.232646477851873	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-132-3p	23819	23824	23819	23824	6mer	x	0	91	2.232646477851873	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-132-3p	24205	24211	24205	24211	7mer-1a	x	0	91	2.232646477851873	4a	4a	4a protein	4a protein
+229E	miR-132-3p	26097	26102	26097	26102	6mer	x	0	91	2.232646477851873	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-132-3p	2627	2633	2627	2633	7mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	283	288	283	288	6mer	x	0	91	2.232646477851873				
+229E	miR-132-3p	4160	4165	4160	4165	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	5885	5890	5885	5890	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	6286	6292	6286	6292	7mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	6361	6368	6361	6368	8mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	6698	6704	6698	6704	7mer-1a	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-132-3p	8654	8659	8654	8659	6mer	x	0	91	2.232646477851873	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	10239	10244	10239	10244	6mer	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	14406	14412	14406	14412	7mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-542-3p	16241	16248	16241	16248	8mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-542-3p	1687	1693	1687	1693	7mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	17352	17358	17352	17358	7mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-542-3p	1801	1806	1801	1806	6mer	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	21229	21234	21229	21234	6mer	x	0	89	2.545124776828574	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-542-3p	21300	21306	21300	21306	7mer-1a	x	0	89	2.545124776828574	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-542-3p	23614	23620	23614	23620	7mer-1a	x	0	89	2.545124776828574	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-542-3p	25024	25029	25024	25029	6mer	x	0	89	2.545124776828574	M	M	membrane protein	membrane protein
+229E	miR-542-3p	25350	25357	25350	25357	8mer-1a	x	0	89	2.545124776828574	M	M	membrane protein	membrane protein
+229E	miR-542-3p	25906	25911	25906	25911	6mer	x	0	89	2.545124776828574	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-542-3p	26465	26471	26465	26471	7mer-1a	x	0	89	2.545124776828574	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-542-3p	5958	5965	5958	5965	8mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	6694	6699	6694	6699	6mer	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	7698	7704	7698	7704	7mer-m8	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	10239	10244	10239	10244	6mer	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	14406	14412	14406	14412	7mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-542-3p	16241	16248	16241	16248	8mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-542-3p	1687	1693	1687	1693	7mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	17352	17358	17352	17358	7mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-542-3p	1801	1806	1801	1806	6mer	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	21229	21234	21229	21234	6mer	x	0	89	2.545124776828574	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-542-3p	21300	21306	21300	21306	7mer-1a	x	0	89	2.545124776828574	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-542-3p	23614	23620	23614	23620	7mer-1a	x	0	89	2.545124776828574	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-542-3p	25024	25029	25024	25029	6mer	x	0	89	2.545124776828574	M	M	membrane protein	membrane protein
+229E	miR-542-3p	25350	25357	25350	25357	8mer-1a	x	0	89	2.545124776828574	M	M	membrane protein	membrane protein
+229E	miR-542-3p	25906	25911	25906	25911	6mer	x	0	89	2.545124776828574	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-542-3p	26465	26471	26465	26471	7mer-1a	x	0	89	2.545124776828574	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-542-3p	5958	5965	5958	5965	8mer-1a	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	6694	6699	6694	6699	6mer	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-542-3p	7698	7704	7698	7704	7mer-m8	x	0	89	2.545124776828574	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	10688	10693	10688	10693	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	11403	11408	11403	11408	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	1169	1175	1169	1175	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	12050	12056	12050	12056	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	1379	1386	1379	1386	8mer-1a	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	159	164	159	164	6mer	x	0	87	2.622729084679874				
+229E	miR-3065-3p	1716	1721	1716	1721	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	18017	18022	18017	18022	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	18083	18088	18083	18088	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	18475	18481	18475	18481	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	18670	18677	18670	18677	8mer-1a	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	19873	19879	19873	19879	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	24161	24167	24161	24167	7mer-1a	x	0	87	2.622729084679874	4a	4a	4a protein	4a protein
+229E	miR-3065-3p	27164	27169	27164	27169	6mer	x	0	87	2.622729084679874				
+229E	miR-3065-3p	3887	3893	3887	3893	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	4818	4823	4818	4823	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	5346	5351	5346	5351	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	7739	7745	7739	7745	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	8781	8786	8781	8786	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	8937	8942	8937	8942	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	10688	10693	10688	10693	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	11403	11408	11403	11408	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	1169	1175	1169	1175	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	12050	12056	12050	12056	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	1379	1386	1379	1386	8mer-1a	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	159	164	159	164	6mer	x	0	87	2.622729084679874				
+229E	miR-3065-3p	1716	1721	1716	1721	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	18017	18022	18017	18022	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	18083	18088	18083	18088	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	18475	18481	18475	18481	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	18670	18677	18670	18677	8mer-1a	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	19873	19879	19873	19879	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-3065-3p	24161	24167	24161	24167	7mer-1a	x	0	87	2.622729084679874	4a	4a	4a protein	4a protein
+229E	miR-3065-3p	27164	27169	27164	27169	6mer	x	0	87	2.622729084679874				
+229E	miR-3065-3p	3887	3893	3887	3893	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	4818	4823	4818	4823	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	5346	5351	5346	5351	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	7739	7745	7739	7745	7mer-m8	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	8781	8786	8781	8786	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-3065-3p	8937	8942	8937	8942	6mer	x	0	87	2.622729084679874	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	11377	11383	11377	11383	7mer-1a	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	13001	13007	13001	13007	7mer-m8	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-107	13820	13827	13820	13827	8mer-1a	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-107	18018	18023	18018	18023	6mer	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-107	22951	22957	22951	22957	7mer-1a	x	0	87	2.2348658378137336	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-107	23385	23391	23385	23391	7mer-m8	x	0	87	2.2348658378137336	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-107	2367	2373	2367	2373	7mer-m8	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	26243	26248	26243	26248	6mer	x	0	87	2.2348658378137336	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-107	4197	4203	4197	4203	7mer-m8	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	4819	4824	4819	4824	6mer	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	5460	5466	5460	5466	7mer-m8	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	6543	6548	6543	6548	6mer	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	8536	8542	8536	8542	7mer-1a	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	8782	8788	8782	8788	7mer-1a	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	8938	8943	8938	8943	6mer	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	8941	8947	8941	8947	7mer-1a	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	9021	9027	9021	9027	7mer-m8	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	9810	9816	9810	9816	7mer-m8	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-107	9937	9942	9937	9942	6mer	x	0	87	2.2348658378137336	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	10329	10334	10329	10334	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	10685	10690	10685	10690	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	1108	1113	1108	1113	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	12076	12083	12076	12083	8mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	12578	12583	12578	12583	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	12890	12896	12890	12896	7mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	15488	15493	15488	15493	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	15521	15527	15521	15527	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	1713	1718	1713	1718	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	17994	18000	17994	18000	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	19462	19468	19462	19468	7mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	2119	2126	2119	2126	8mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	22687	22693	22687	22693	7mer-m8	x	0	85	2.1913062883990766	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-128-3p	25144	25149	25144	25149	6mer	x	0	85	2.1913062883990766	M	M	membrane protein	membrane protein
+229E	miR-128-3p	25412	25418	25412	25418	7mer-1a	x	0	85	2.1913062883990766	M	M	membrane protein	membrane protein
+229E	miR-128-3p	2614	2620	2614	2620	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	26630	26636	26630	26636	7mer-m8	x	0	85	2.1913062883990766	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-128-3p	26661	26666	26661	26666	6mer	x	0	85	2.1913062883990766	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-128-3p	26862	26868	26862	26868	7mer-m8	x	0	85	2.1913062883990766				
+229E	miR-128-3p	6405	6411	6405	6411	7mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	7780	7785	7780	7785	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	9259	9265	9259	9265	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	10329	10334	10329	10334	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	10685	10690	10685	10690	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	1108	1113	1108	1113	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	12076	12083	12076	12083	8mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	12578	12583	12578	12583	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	12890	12896	12890	12896	7mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	15488	15493	15488	15493	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	15521	15527	15521	15527	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	1713	1718	1713	1718	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	17994	18000	17994	18000	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	19462	19468	19462	19468	7mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-128-3p	2119	2126	2119	2126	8mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	22687	22693	22687	22693	7mer-m8	x	0	85	2.1913062883990766	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-128-3p	25144	25149	25144	25149	6mer	x	0	85	2.1913062883990766	M	M	membrane protein	membrane protein
+229E	miR-128-3p	25412	25418	25412	25418	7mer-1a	x	0	85	2.1913062883990766	M	M	membrane protein	membrane protein
+229E	miR-128-3p	2614	2620	2614	2620	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	26630	26636	26630	26636	7mer-m8	x	0	85	2.1913062883990766	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-128-3p	26661	26666	26661	26666	6mer	x	0	85	2.1913062883990766	N	N	nucleocapsid protein	nucleocapsid protein
+229E	miR-128-3p	26862	26868	26862	26868	7mer-m8	x	0	85	2.1913062883990766				
+229E	miR-128-3p	6405	6411	6405	6411	7mer-1a	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	7780	7785	7780	7785	6mer	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-128-3p	9259	9265	9259	9265	7mer-m8	x	0	85	2.1913062883990766	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	11244	11250	11244	11250	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	11595	11600	11595	11600	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	12424	12429	12424	12429	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	12881	12888	12881	12888	8mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	13246	13252	13246	13252	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	14945	14951	14945	14951	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	16649	16655	16649	16655	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	17966	17972	17966	17972	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	18140	18145	18140	18145	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	19040	19045	19040	19045	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	20085	20090	20085	20090	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	20136	20142	20136	20142	7mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	2104	2110	2104	2110	7mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	2131	2136	2131	2136	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	22117	22122	22117	22122	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	23602	23607	23602	23607	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	23791	23796	23791	23796	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	24070	24075	24070	24075	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	24505	24510	24505	24510	6mer	x	0	83	2.0528764711125804	4b	4b	4b protein	4b protein
+229E	miR-335-3p	2710	2715	2710	2715	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	3066	3073	3066	3073	8mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	3088	3093	3088	3093	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	6039	6045	6039	6045	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	6751	6756	6751	6756	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	7027	7032	7027	7032	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	7686	7692	7686	7692	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	7942	7947	7942	7947	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	8155	8160	8155	8160	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	9012	9017	9012	9017	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	9850	9856	9850	9856	7mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	11244	11250	11244	11250	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	11595	11600	11595	11600	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	12424	12429	12424	12429	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	12881	12888	12881	12888	8mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	13246	13252	13246	13252	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	14945	14951	14945	14951	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	16649	16655	16649	16655	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	17966	17972	17966	17972	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	18140	18145	18140	18145	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	19040	19045	19040	19045	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	20085	20090	20085	20090	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	20136	20142	20136	20142	7mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1ab	replicase polyprotein 1ab
+229E	miR-335-3p	2104	2110	2104	2110	7mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	2131	2136	2131	2136	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	22117	22122	22117	22122	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	23602	23607	23602	23607	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	23791	23796	23791	23796	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	24070	24075	24070	24075	6mer	x	0	83	2.0528764711125804	S	S	surface glycoprotein	surface glycoprotein
+229E	miR-335-3p	24505	24510	24505	24510	6mer	x	0	83	2.0528764711125804	4b	4b	4b protein	4b protein
+229E	miR-335-3p	2710	2715	2710	2715	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	3066	3073	3066	3073	8mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	3088	3093	3088	3093	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	6039	6045	6039	6045	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	6751	6756	6751	6756	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	7027	7032	7027	7032	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	7686	7692	7686	7692	7mer-m8	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	7942	7947	7942	7947	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	8155	8160	8155	8160	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	9012	9017	9012	9017	6mer	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-335-3p	9850	9856	9850	9856	7mer-1a	x	0	83	2.0528764711125804	1ab	1ab	replicase polyprotein 1a	replicase polyprotein 1a
+229E	miR-429	21851	21856	21851	21856	6mer	x	0	80	1.411498436625335	S	S	surface glycoprotein	surface glycoprotein

@@ -1,0 +1,9 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+"viral segment Unknown","NC_006577.2",206,21753,"+",3200429,"orf1ab","HCHV1gp1","YP_173236.1",7182,"orf1ab polyprotein"
+"viral segment Unknown","NC_006577.2",21773,22933,"+",3200425,"HE","HCHV1gp2","YP_173237.1",386,"hemagglutinin-esterase glycoprotein"
+"viral segment Unknown","NC_006577.2",22942,27012,"+",3200426,"S","HCHV1gp3","YP_173238.1",1356,"spike glycoprotein"
+"viral segment Unknown","NC_006577.2",27051,27380,"+",3200427,"orf4","HCHV1gp4","YP_173239.1",109,"non-structural protein"
+"viral segment Unknown","NC_006577.2",27373,27621,"+",3200430,"E","HCHV1gp5","YP_173240.1",82,"small membrane protein"
+"viral segment Unknown","NC_006577.2",27633,28304,"+",3200428,"M","HCHV1gp6","YP_173241.1",223,"membrane glycoprotein"
+"viral segment Unknown","NC_006577.2",28320,29645,"+",3200423,"N","HCHV1gp7","YP_173242.1",441,"nucleocapsid phosphoprotein"
+"viral segment Unknown","NC_006577.2",28342,28959,"+",3200424,"N2","HCHV1gp8","YP_173243.1",205,"nucleocapsid phosphoprotein 2"

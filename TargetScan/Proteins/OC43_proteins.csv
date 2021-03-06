@@ -1,0 +1,9 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+viral segment,NC_006213.1,210,21496,+,39105222,orf1ab,EYW02_gp1,YP_009555238.1,7095,Orf1ab
+viral segment,NC_006213.1,21506,22342,-,39105215,ns2,EYW02_gp2,YP_009555239.1,278,ns2
+viral segment,NC_006213.1,22354,23628,-,39105216,EYW02_gp3,EYW02_gp3,YP_009555240.1,424,hemagglutinin-esterase
+viral segment,NC_006213.1,23643,27704,-,39105218,EYW02_gp4,EYW02_gp4,YP_009555241.1,1353,spike surface glycoprotein
+viral segment,NC_006213.1,27792,28121,+,39105219,ns12.9,EYW02_gp5,YP_009555242.1,109,ns12.9
+viral segment,NC_006213.1,28108,28362,+,39105217,EYW02_gp6,EYW02_gp6,YP_009555243.1,84,envelope protein
+viral segment,NC_006213.1,28377,29069,-,39105220,EYW02_gp7,EYW02_gp7,YP_009555244.1,230,membrane protein
+viral segment,NC_006213.1,29079,30425,-,39105221,EYW02_gp8,EYW02_gp8,YP_009555245.1,448,nucleocapsid protein

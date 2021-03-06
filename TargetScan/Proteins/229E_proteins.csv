@@ -1,0 +1,9 @@
+#Name,Accession,Start,Stop,Strand,GeneID,Locus,Locus tag,Protein product,Length,Protein Name
+viral segment Unknown,NC_002645.1,293,20568,+,918764,1ab,HCoV229Egp1,NP_073549.1,6758,replicase polyprotein 1ab
+viral segment Unknown,NC_002645.1,293,12550,+,918764,1ab,HCoV229Egp1,NP_073550.1,4085,replicase polyprotein 1a
+viral segment Unknown,NC_002645.1,20570,24091,+,918758,S,HCoV229Egp2,NP_073551.1,1173,surface glycoprotein
+viral segment Unknown,NC_002645.1,24091,24492,+,918759,4a,HCoV229Egp3,NP_073552.1,133,4a protein
+viral segment Unknown,NC_002645.1,24482,24748,+,918760,4b,HCoV229Egp4,NP_073553.1,88,4b protein
+viral segment Unknown,NC_002645.1,24750,24983,+,918761,E,HCoV229Egp5,NP_073554.1,77,envelope protein
+viral segment Unknown,NC_002645.1,24995,25672,+,918762,M,HCoV229Egp6,NP_073555.1,225,membrane protein
+viral segment Unknown,NC_002645.1,25686,26855,+,918763,N,HCoV229Egp7,NP_073556.1,389,nucleocapsid protein
